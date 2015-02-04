@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Given(/^ingreso a la pagina de tablero de juego$/) do
   visit '/tableroJuego'
 end
@@ -18,6 +19,7 @@ Then(/^el boton tiene el texto "(.*?)"$/) do |arg1|
   pending # express the regexp above with the code you wish you had
 end
 
+=======
 Given(/^que estoy en la pantalla inicial$/) do
   visit '/'
 end
@@ -25,4 +27,4 @@ end
 Then(/^debo ver "(.*?)"$/) do |text|
   last_response.body.should =~ /#{text}/m
 end
-
+>>>>>>> 43388c37e1a2ce9a37ce7141e6e78a06194dd8ce
