@@ -12,7 +12,7 @@ end
 #Tablero
 
 Given(/^ingreso a la pagina de tablero de juego$/) do
-  visit '/tableroJuego'
+  visit '/tablero'
 end
 
 Then(/^deseo ver el titulo "(.*?)"$/) do |arg1|

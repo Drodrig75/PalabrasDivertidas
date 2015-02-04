@@ -4,9 +4,9 @@ Feature: Pantalla de juego
 #Deseo ver el tablero de juego 
 #Para iniciar la partida
 
-#Scenario: Visualizar tablero
-#Given ingreso a la pagina de tablero de juego
-#Then deseo ver el titulo "Palabras Divertidas"
+Scenario: Visualizar tablero
+Given ingreso a la pagina de tablero de juego
+Then deseo ver el titulo "Palabras Divertidas"
 
 #Scenario: Visualizar nick
 #Given ingreso a la pagina de tablero de juego

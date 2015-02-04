@@ -9,7 +9,7 @@
         null,
         null,
         1,
-        0,
+        1,
         null
       ],
       "/home/kleer/csd/PalabrasDivertidas/features/step_definitions/my_steps.rb": [
@@ -27,11 +27,11 @@
         null,
         null,
         1,
-        0,
+        1,
         null,
         null,
         1,
-        0,
+        1,
         null,
         null,
         null,
@@ -88,6 +88,6 @@
         null
       ]
     },
-    "timestamp": 1423073811
+    "timestamp": 1423074691
   }
 }
